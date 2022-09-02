@@ -1,3 +1,4 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
 SurfaceCoverage = "75f4d65b-1b42-4905-9fb1-6d40607712e8"
