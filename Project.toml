@@ -1,7 +1,7 @@
 name = "SurfaceCoverage"
 uuid = "75f4d65b-1b42-4905-9fb1-6d40607712e8"
 authors = ["Vinod Janardhanan"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
@@ -10,10 +10,10 @@ RxnHelperUtils = "58b8660e-aa37-4837-a287-8893ee0015f8"
 SurfaceReactions = "59f5dcf9-29de-47f3-bbe3-a47d1f19a124"
 
 [compat]
-julia = "1.9.1"
-RxnHelperUtils = "0.1.5"
-SurfaceReactions = "0.1.1"
-LightXML = "0.9.0"
+julia = "1.10.4"
+RxnHelperUtils = "0.1.8"
+SurfaceReactions = "0.1.2"
+LightXML = "0.9.1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
