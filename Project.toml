@@ -1,7 +1,7 @@
 name = "SurfaceCoverage"
 uuid = "75f4d65b-1b42-4905-9fb1-6d40607712e8"
 authors = ["Vinod Janardhanan"]
-version = "0.1.2"
+version = "0.1.3"
 
 [deps]
 LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
