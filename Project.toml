@@ -13,7 +13,7 @@ SurfaceReactions = "59f5dcf9-29de-47f3-bbe3-a47d1f19a124"
 LightXML = "0.9.1"
 SurfaceReactions = "0.1.4"
 RxnHelperUtils = "1.0.0"
-julia = "1.10.4"
+julia = "1.8.0 - 1.10.4"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
